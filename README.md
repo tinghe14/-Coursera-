@@ -1,2 +1,9 @@
 # -Coursera-
-Notes and Assignments for the Coursera I took
+
+DeepLearning.ai:
+- [Machine Learning Specialization]()
+  - My Study Note
+  - My Coding Assignment (Lab)
+- [Natural Language Specialization]()
+  - My Study Note
+  - My Coding Assignment (Lab)
