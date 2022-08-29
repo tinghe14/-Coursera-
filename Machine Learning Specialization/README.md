@@ -14,7 +14,9 @@ By the end of this Specialization, you will be ready to:
 - Build a deep reinforcement learning model.
 
 ## Finish Period
+Around Summer 2022
 
 ## My Study Note
 
 ## My Coding Assignment
+Link: https://github.com/tinghe14/-Coursera-/tree/main/Machine%20Learning%20Specialization/Coding%20Assignments
